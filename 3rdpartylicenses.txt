@@ -378,6 +378,14 @@ THE SOFTWARE.
 MIT
 MIT
 
+ng2-datepicker@2.2.5
+MIT
+MIT
+
+@angular/common@5.2.6
+MIT
+MIT
+
 core-js@2.5.1
 MIT
 Copyright (c) 2014-2017 Denis Pushkarev
@@ -491,10 +499,6 @@ copyright holder.
 Unicode and the Unicode logo are trademarks of Unicode, Inc. in the United
 States and other countries. All third party trademarks referenced herein are
 the property of their respective owners.
-
-@angular/common@5.2.6
-MIT
-MIT
 
 @angular/forms@5.2.6
 MIT
